@@ -7,7 +7,7 @@
 }
 
 .wrapper{
-    height: 100vh;
+    height: 101vh;
     width: 100vw;
 }
 
@@ -146,5 +146,5 @@ header{
 
 @media  and (max-width 330px) {
     .container-left
-        height: 70%;
-    }
+        height: 70%;}
+        
